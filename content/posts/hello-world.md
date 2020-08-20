@@ -5,7 +5,7 @@ draft: true
 categories: ["Test", "tmp", "hello-world"]
 tags: ["Development", "Go", "fast", "Blogging"]
 ---
-
+hi!
 This is a demo page.
 
 # Lorem translated
